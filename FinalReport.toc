@@ -10,4 +10,3 @@
 \contentsline {subsection}{\numberline {2.1.3}Facial Component detection}{2}
 \contentsline {subsection}{\numberline {2.1.4}Features Extraction}{2}
 \contentsline {subsection}{\numberline {2.1.5}Classification}{2}
-\contentsline {section}{\numberline {2.2}Classification of Real Live Face Detection Methods}{3}
